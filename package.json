@@ -1,0 +1,19 @@
+{
+  "name": "@devcoons/njs-random",
+  "version": "0.0.1",
+  "description": "Helper module to generate random values",
+  "main": "njs-random.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcoons/njs-random.git"
+  },
+  "author": "devcoons",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcoons/njs-random/issues"
+  },
+  "homepage": "https://github.com/devcoons/njs-random#readme"
+}
